@@ -76,7 +76,7 @@ Les paramètres du jeu sont définis directement dans le code Python et peuvent 
 ## ✨ Crédits
 
 Inspiré du Jeu de la Vie de John Conway. </br>
-Développé en Python avec Tkinter pour l'interface graphique par <a href="https://christophe.dupasquier.ch" target="_blank">Christophe Dupasquier</a>
+Développé en Python avec Tkinter pour l'interface graphique par <a href="https://christophe.dupasquier.ch" target="new">Christophe Dupasquier</a>
 
 ## 💡 Améliorations possibles
 
